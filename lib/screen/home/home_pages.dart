@@ -84,7 +84,7 @@ class _HomePageState extends State<HomePage> {
                             isSelected: value1,
                           ),
                         ),
-                        SizedBox(width: 16.0),
+                        SizedBox(width: 17.0),
                         // ปุ่ม Popular
                         Expanded(
                           child: _buildCategoryButton(
